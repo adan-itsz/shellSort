@@ -1,0 +1,9 @@
+C:\Users\adan\Documents\repositoriosVisual\ShellSort\ShellSort\bin\Debug\ShellSort.exe.config
+C:\Users\adan\Documents\repositoriosVisual\ShellSort\ShellSort\bin\Debug\ShellSort.exe
+C:\Users\adan\Documents\repositoriosVisual\ShellSort\ShellSort\bin\Debug\ShellSort.pdb
+C:\Users\adan\Documents\repositoriosVisual\ShellSort\ShellSort\obj\Debug\ShellSort.csprojResolveAssemblyReference.cache
+C:\Users\adan\Documents\repositoriosVisual\ShellSort\ShellSort\obj\Debug\ShellSort.Form1.resources
+C:\Users\adan\Documents\repositoriosVisual\ShellSort\ShellSort\obj\Debug\ShellSort.Properties.Resources.resources
+C:\Users\adan\Documents\repositoriosVisual\ShellSort\ShellSort\obj\Debug\ShellSort.csproj.GenerateResource.Cache
+C:\Users\adan\Documents\repositoriosVisual\ShellSort\ShellSort\obj\Debug\ShellSort.exe
+C:\Users\adan\Documents\repositoriosVisual\ShellSort\ShellSort\obj\Debug\ShellSort.pdb
